@@ -22,6 +22,7 @@
     justify-content: space-between;
     align-items: center;
     gap: 4rem;
+    flex-wrap: wrap;
 }
 
 .projects ul li.projects__reversed-list{
@@ -45,8 +46,6 @@
 
 .projects ul li .projects__info p{
     margin: 1rem 0 4rem;
-
-
 }
 
 .projects ul li .projects__info a{
