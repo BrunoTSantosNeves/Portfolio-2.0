@@ -78,6 +78,7 @@
     justify-content: space-between;
     align-items: center;
     gap: 4rem;
+    flex-wrap: wrap;
 }
 
 .projects ul li.projects__reversed-list{
